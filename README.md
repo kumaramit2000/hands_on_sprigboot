@@ -1,3 +1,2 @@
-https://github.com/kumaramit2000/hands_on_sprigboot/blob/main/src/main/resources/images/design.jpg
-
+Application Design : 
 ![alt text](https://github.com/kumaramit2000/hands_on_sprigboot/blob/main/src/main/resources/images/design.jpg?raw=true)
